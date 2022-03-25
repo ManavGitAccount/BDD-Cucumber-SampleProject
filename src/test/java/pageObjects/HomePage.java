@@ -13,6 +13,7 @@ public class HomePage {
         this.driver = driver;
         System.out.println("TestA");
         System.out.println("TestB");
+        System.out.println("testC");
 
     }
 
