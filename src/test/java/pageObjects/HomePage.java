@@ -11,6 +11,7 @@ public class HomePage {
 
     public HomePage(WebDriver driver){
         this.driver = driver;
+        System.out.println("Test");
     }
 
     public WebElement getSearch(){
